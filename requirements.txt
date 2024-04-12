@@ -1,0 +1,12 @@
+langchain
+pyepsilla
+sentence_transformers
+streamlit
+pypdf
+python-dotenv
+watchdog
+openai
+tiktoken
+psycopg2-binary
+langchain_experimental
+chromadb
